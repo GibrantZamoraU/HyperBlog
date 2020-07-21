@@ -29,3 +29,13 @@ body{
 #container h1{
     font-size: 20 px;
 }
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+#post
+{
+    background: white;
+    padding: 1em;
+}
